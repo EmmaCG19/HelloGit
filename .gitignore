@@ -1,0 +1,6 @@
+# No tiene en cuenta el root ni los subdirectorios que tengan este archivo
+no-commit.txt
+
+# En este ejemplo, la carpeta git-ignore-test es tenida en cuenta porque se creo un archivo no-commit-2.txt, vamos a excluir ese directorio directamente
+/git-ignore-test/
+
